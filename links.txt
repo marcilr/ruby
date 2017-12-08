@@ -1,0 +1,13 @@
+links.txt
+Created Fri Dec  8 10:38:18 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Ruby related links
+
+
+Links
+=====
+Ruby
+A Programmer's Best Friend
+https://www.ruby-lang.org/en/
