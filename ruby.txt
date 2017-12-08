@@ -1,0 +1,15 @@
+ruby.txt
+Created Fri Dec  8 10:36:38 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Ruby
+A Programmer's Best Friend
+
+
+Links
+=====
+Ruby
+A Programmer's Best Friend
+https://www.ruby-lang.org/en/
+
