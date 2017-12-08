@@ -12,6 +12,10 @@ Ruby
 A Programmer's Best Friend
 https://www.ruby-lang.org/en/
 
+Ruby on Rails Guides (v5.1.4)
+From Hanh Thu Dec 7, 2017
+http://guides.rubyonrails.org/
+
 Ruby on Rails tutorial
 From Hanh Thu Dec 7, 2017
 https://learnrubythehardway.org/book/
