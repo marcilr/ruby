@@ -11,3 +11,12 @@ Links
 Ruby
 A Programmer's Best Friend
 https://www.ruby-lang.org/en/
+
+Ruby on Rails tutorial
+From Hanh Thu Dec 7, 2017
+https://learnrubythehardway.org/book/
+http://railsforzombies.org/levels/1
+
+Style guide
+From Hanh Thu Dec 7, 2017
+https://github.com/bbatsov/ruby-style-guide#source-code-layout
