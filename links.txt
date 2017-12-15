@@ -10,6 +10,9 @@ Ruby related links
 
 Links
 =====
+Creating Arrays                        <===
+https://docs.ruby-lang.org/en/2.0.0/Array.html
+
 Learn Ruby the Hard Way, 3rd Edition   <===
 https://learnrubythehardway.org/book/
 
