@@ -20,6 +20,9 @@ Ruby                                   <===
 A Programmer's Best Friend
 https://www.ruby-lang.org/en/
 
+Ruby for Admins                        <===
+http://rubyforadmins.com/
+
 Ruby on Rails Guides (v5.1.4)          <===
 http://guides.rubyonrails.org/
 
