@@ -29,5 +29,10 @@ http://guides.rubyonrails.org/
 Ruby on Rails tutorial                 <===
 http://railsforzombies.org/levels/1
 
+Ruby on Rails Tutorial                 <===
+Learn Web Development with Rails
+Michael Hartl
+https://www.railstutorial.org/book
+
 Style guide                            <===
 https://github.com/bbatsov/ruby-style-guide#source-code-layout
