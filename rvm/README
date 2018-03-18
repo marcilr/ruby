@@ -1,0 +1,19 @@
+README
+Created Sun Mar 18 15:24:40 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+00INSTALL/
+  Install Ruby Version Manager (RVM)
+
+rvm.txt
+  Ruby Version Manager (RVM)
+
+  RVM is a command-line tool which allows you to easily
+  install, manage, and work with multiple ruby environments
+  from interpreters to sets of gems.
+  --Ruby Version Manager (RVM)
+    https://rvm.io/
+
