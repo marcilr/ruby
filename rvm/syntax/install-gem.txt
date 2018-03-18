@@ -1,0 +1,30 @@
+install-gem.txt
+Created Sun Mar 18 15:34:14 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+to install gem with rvm:
+
+$ rvm gem install <gem>
+
+
+Install old fashioned way:
+$ gem install curl
+Successfully installed unidecoder-1.1.2
+Fetching: awesome_print-1.8.0.gem (100%)
+Successfully installed awesome_print-1.8.0
+Fetching: curl-0.0.9.gem (100%)
+Successfully installed curl-0.0.9
+Parsing documentation for unidecoder-1.1.2
+Installing ri documentation for unidecoder-1.1.2
+Parsing documentation for awesome_print-1.8.0
+Installing ri documentation for awesome_print-1.8.0
+Parsing documentation for curl-0.0.9
+Installing ri documentation for curl-0.0.9
+Done installing documentation for unidecoder, awesome_print, curl after 0 seconds
+3 gems installed
+$ 
+
+
+Not had to smack down open privs for above to work:
+# chmod -R 777 /var/lib/gems/
