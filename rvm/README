@@ -19,3 +19,6 @@ rvm.txt
   from interpreters to sets of gems.
   --Ruby Version Manager (RVM)
     https://rvm.io/
+
+syntax/
+  Syntax for Ruby Version Manager (RVM)
