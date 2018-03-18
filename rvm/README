@@ -8,6 +8,9 @@ Filelist
 00INSTALL/
   Install Ruby Version Manager (RVM)
 
+links.txt
+  Ruby Version Manager (RVM) related links
+
 rvm.txt
   Ruby Version Manager (RVM)
 
@@ -16,4 +19,3 @@ rvm.txt
   from interpreters to sets of gems.
   --Ruby Version Manager (RVM)
     https://rvm.io/
-
