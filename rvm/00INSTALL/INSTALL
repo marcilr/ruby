@@ -1,0 +1,52 @@
+INSTALL
+Created Sun Mar 18 15:26:43 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Installation of Ruby Version Manager (RVM)
+on Debian stretch 9.4 amd64
+
+
+1. Cut Rubies with ease!
+Install RVM:
+$ gpg --keyserver hkp://keys.gnupg.net --recv-keys \
+409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+gpg: key 105BD0E739499BDB: public key "Piotr Kuczynski <piotr.kuczynski@gmail.com>" imported
+gpg: key 3804BB82D39DC0E3: public key "Michal Papis (RVM signing) <mpapis@gmail.com>" imported
+gpg: no ultimately trusted keys found
+gpg: Total number processed: 2
+gpg:               imported: 2
+$
+
+$ \curl -sSL https://get.rvm.io | bash -s stable
+Downloading https://github.com/rvm/rvm/archive/1.29.3.tar.gz
+Downloading https://github.com/rvm/rvm/releases/download/1.29.3/1.29.3.tar.gz.asc
+gpg: Signature made Sun 10 Sep 2017 12:59:21 PM AKDT
+gpg:                using RSA key E206C29FBF04FF17
+gpg: Good signature from "Michal Papis (RVM signing) <mpapis@gmail.com>" [unknown]
+gpg:                 aka "Michal Papis <michal.papis@toptal.com>" [unknown]
+gpg:                 aka "[jpeg image of size 5015]" [unknown]
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+Primary key fingerprint: 409B 6B17 96C2 7546 2A17  0311 3804 BB82 D39D C0E3
+     Subkey fingerprint: 62C9 E5F4 DA30 0D94 AC36  166B E206 C29F BF04 FF17
+GPG verified '/home/marcilr/.rvm/archives/rvm-1.29.3.tgz'
+
+Installing RVM to /home/marcilr/.rvm/
+    Adding rvm PATH line to /home/marcilr/.profile /home/marcilr/.mkshrc \
+/home/marcilr/.bashrc /home/marcilr/.zshrc.
+    Adding rvm loading line to /home/marcilr/.profile \
+/home/marcilr/.bash_profile /home/marcilr/.zlogin.
+Installation of RVM in /home/marcilr/.rvm/ is almost complete:
+
+  * To start using RVM you need to run `source \
+/home/marcilr/.rvm/scripts/rvm`
+    in all your open shell windows, in rare cases you need to \
+reopen all shell windows.
+$ 
+
+$ type rvm
+rvm is /home/marcilr/.rvm/bin/rvm
+$ 
+
+Looks good!
