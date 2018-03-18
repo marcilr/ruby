@@ -1,0 +1,16 @@
+list.txt
+Created Sun Mar 18 15:50:57 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+List installed rubies
+
+
+$ rvm list rubies
+
+
+Links
+=====
+Listing RVM installed rubies.
+https://rvm.io/rubies/list
+
