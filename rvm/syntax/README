@@ -5,6 +5,9 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+list.txt
+  List installed rubies
+
 syntax.txt
   Syntax for Ruby Version Manager (RVM)
 
