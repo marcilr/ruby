@@ -1,0 +1,33 @@
+links.txt
+Created Mon Mar 26 08:59:10 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Method related links
+
+
+Links
+=====
+Getting Input
+Helping Ruby Programmers become Awesome!
+http://rubylearning.com/satishtalim/getting_input.html
+
+More on Ruby Methods
+Helping Ruby Programmers become Awesome!
+http://rubylearning.com/satishtalim/more_on_ruby_methods.html
+
+Ruby Names
+Helping Ruby Programmers become Awesome!
+http://rubylearning.com/satishtalim/ruby_names.html
+
+Scope
+Helping Ruby Programmers become Awesome!
+http://rubylearning.com/satishtalim/scope.html
+
+Writing Own Ruby Methods
+Helping Ruby Programmers become Awesome!
+http://rubylearning.com/satishtalim/writing_own_ruby_methods.html
+
+Writing Ruby Methods
+Helping Ruby Programmers become Awesome!
+http://rubylearning.com/satishtalim/writing_own_ruby_methods.html
