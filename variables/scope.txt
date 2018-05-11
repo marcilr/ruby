@@ -23,6 +23,8 @@ o Local variable (a_variable): It depends on the scope.  You’ll be
   working with these most and thus encounter the most problems, because
   their scope depends on various things.
 
+see: variable-scope-ruby.jpg
+
 --sitepoint.com/
 
 
