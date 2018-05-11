@@ -1,0 +1,11 @@
+links.txt
+Created Thu May 10 16:13:00 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Links
+=====
+Understanding Scope in Ruby
+by Darko Gjorgjievski - August 17, 2015
+Very good information on scope
+https://www.sitepoint.com/understanding-scope-in-ruby/
