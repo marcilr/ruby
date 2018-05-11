@@ -8,5 +8,10 @@ Filelist
 links.txt
   Variable related links
 
+scope.txt
+  Ruby Variable Scope: A Quick Reference
+  Understanding Scope in Ruby
+  https://www.sitepoint.com/understanding-scope-in-ruby/
+
 variables.txt
   Variables
