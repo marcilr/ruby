@@ -15,3 +15,10 @@ scope.txt
 
 variables.txt
   Variables
+
+variable-scope-ruby.jpg
+  Nice diagram showing variable scope in ruby 
+  Ruby Variable Scope: A Quick Reference
+  Understanding Scope in Ruby
+  https://www.sitepoint.com/understanding-scope-in-ruby/
+
