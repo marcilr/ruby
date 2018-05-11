@@ -1,0 +1,33 @@
+scope.txt
+Created Thu May 10 16:17:22 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Ruby Variable Scope: A Quick Reference
+
+Ruby has variables defined within different scopes, which you
+probably know already.  I found that most tutorials describe
+them briefly (the variable types), but they fail to mention
+precisely what their scope is.  Here are the details:
+
+o Class variable (@@a_variable): Available from the class definition
+  and any sub-classes.  Not available from anywhere outside.
+
+o Instance variable (@a_variable): Available only within a specific
+  object, across all methods in a class instance.  Not available
+  directly from class definitions.
+
+o Global variable ($a_variable): Available everywhere within your Ruby script.
+
+o Local variable (a_variable): It depends on the scope.  You’ll be
+  working with these most and thus encounter the most problems, because
+  their scope depends on various things.
+
+--sitepoint.com/
+
+
+Links
+=====
+Ruby Variable Scope: A Quick Reference
+Understanding Scope in Ruby
+https://www.sitepoint.com/understanding-scope-in-ruby/
