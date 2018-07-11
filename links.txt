@@ -20,6 +20,9 @@ Ruby                                   <===
 A Programmer's Best Friend
 https://www.ruby-lang.org/en/
 
+Ruby books
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby
+
 Ruby Comments
 https://www.tutorialspoint.com/ruby/ruby_comments.htm
 
