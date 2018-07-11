@@ -1,0 +1,12 @@
+books.txt
+Created Wed Jul 11 08:50:07 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Ruby books
+
+
+Links
+=====
+Ruby books
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby
